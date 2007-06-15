@@ -3,7 +3,7 @@ Contributors: mwdmeyer
 Tags: admin, dashboard
 Requires at least: 2.2.0
 Tested up to: 2.2
-Stable tag: 0.1
+Stable tag: 0.2
 
 Removes incoming links, dev news and planet news off the dashboard. 
 
@@ -32,6 +32,10 @@ KEY
 Change Log Start
 
 Note: Release Date is DD/MM/YYYY :)
+
+0.2 (Released 15/06/2007)
+
++Added Security
 
 0.1 (Released 17/05/2007)
 
