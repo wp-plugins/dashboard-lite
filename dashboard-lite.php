@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Dashboard Lite
-Plugin URI: http://www.bluetrait.com/page/wordpress-plugins/
+Plugin URI: http://wordpress.org/extend/plugins/dashboard-lite/
 Description: Removes incoming links, dev news and planet news off the dashboard. Requires WordPress 2.2.0+
-Version: 0.2
+Version: 0.3
 Author: Michael Dale
 Author URI: http://www.bluetrait.com/
 */
